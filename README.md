@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 
 ### Technologies
-![Djnago](https://static.djangoproject.com/img/logos/django-logo-positive.png)
-![Flask](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
