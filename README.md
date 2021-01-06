@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Welcome to My Profile
 
-- 🔭 I’m currently working on Udacity Full-Stack Nano Degree (Python/Flask , PostgresSQL, React) 
+- 🔭 Completed Udacity Full-Stack Nano Degree (Python/Flask , PostgresSQL, React).
 <!--
 **alialjowaher/alialjowaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
